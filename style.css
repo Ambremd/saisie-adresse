@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+}
+
+.champs{
+  background-color: aquamarine;
+  position: relative;
+}
+
+.recherche{
+  width: 100%;
+}
+
+.resultat{
+  background-color:rgb(255, 184, 109);
+  position: absolute;
+  left: 0;
+  right: 0;
+}
